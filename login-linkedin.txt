@@ -1,0 +1,5 @@
+<p>El error en el login con Linkedin fue solucionado!!</p>
+<form method="post">
+	<input type="text" name="username">
+	<input type="password" name="password">
+</form>
